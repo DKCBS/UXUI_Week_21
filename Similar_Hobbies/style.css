@@ -1,0 +1,9 @@
+.SHhead{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.cards{
+    margin-bottom: 100px;
+}

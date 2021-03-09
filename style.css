@@ -1,0 +1,26 @@
+.jumbotron{
+    text-align: center;
+    background-image: url(images/chaos-soccer-gear-Cjfl8r_eYxY-unsplash.jpg);
+    height: 500px;
+}
+.card-deck{
+margin: 30px;
+}
+.PTP{
+    text-align: center;
+    margin-bottom: 50px
+}
+.body{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+
+
+
+/* Get Started Page  */
+.GSP1{
+    width: 100px;
+    height: 100px;
+}

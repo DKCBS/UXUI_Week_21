@@ -14,3 +14,7 @@
 .PTPH{
     margin-top: 20px;
 }
+#ball{
+    height: 50px;
+    width: 50px;
+}
